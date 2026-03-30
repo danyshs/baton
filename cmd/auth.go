@@ -96,3 +96,5 @@ var authCmd = &cobra.Command{
 	Run:     authenticate,
 	Aliases: []string{"authenticate"},
 }
+
+// Comment test for pull requests
